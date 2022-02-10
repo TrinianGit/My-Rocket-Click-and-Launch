@@ -5,9 +5,9 @@ using UnityEngine.UI;
 
 public class GlobalMoneyStore : MonoBehaviour
 {
-    public static int MoneyCounter;
+    public static ulong MoneyCounter;
     public Text MoneyDisplay;
-    public int InternalMoney;
+    public ulong InternalMoney;
     // Start is called before the first frame update
     void Start()
     {
