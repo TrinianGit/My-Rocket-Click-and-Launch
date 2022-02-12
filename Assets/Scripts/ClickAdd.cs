@@ -6,7 +6,7 @@ public class ClickAdd : MonoBehaviour
 {
    public void ClickTheButton()
     {
-        GlobalMoneyStore.MoneyCounter += 100000;
+        GlobalStageOfRocket.CurrentBuild += 1;
     }
 
 }
