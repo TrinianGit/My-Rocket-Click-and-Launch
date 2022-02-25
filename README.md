@@ -30,8 +30,21 @@ The game will be updated once in a while when the time will let me focus on the 
 
 ## Project progress bar
 
-0% +++++----------------------------------------------------------------------------------------------- 100%
+0% ++++++++++++++-------------------------------------------------------------------------------------- 100%
 
-Current:  5%
+Current:  14%
+
+---
+
+## Current Version - 0.2
+
+---
+
+## What's new?
+
+- Added more Panels with in game development options
+- Implemented basic scripts to manage the process of building a Rocket
+- Small improvements to the visual layer
+- Added new images
 
 ---
