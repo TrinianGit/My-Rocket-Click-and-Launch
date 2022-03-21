@@ -24,7 +24,7 @@ Whole game is based on Unity engine and if nothing changes to my plans will be d
 
 ## Updates
 
-The game will be updated once in a while when the time will let me focus on the project. Hopefully alpha will be avilable by the end of June.
+The game will be updated once in a while when the time will let me focus on the project. Hopefully alpha will be available by the end of June.
 
 ---
 
